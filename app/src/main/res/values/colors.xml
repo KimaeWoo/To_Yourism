@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tossPrimary">#006EFF</color>
+    <color name="tossAccent">#00CFFF</color>
+    <color name="tossBackground">#F8F9FB</color>
+    <color name="tossTextPrimary">#212121</color>
+    <color name="tossTextSecondary">#757575</color>
+    <color name="tossLightGray">#E0E0E0</color>
+    <!-- 더 진한 회색 색상 정의 -->
+    <color name="buttonDarkGray">#707070</color>
+    <!-- 아이템 배경색 정의 -->
+    <color name="itemBackground">#FFFFFF</color> <!-- 아이템 배경색 -->
+    <color name="itemBorder">#DDDDDD</color> <!-- 아이템 경계선 색 -->
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To_Yoursim</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="like_icon">Like icon</string>
+    <string name="like_button">Like button</string>
+</resources>
