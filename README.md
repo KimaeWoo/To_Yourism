@@ -67,8 +67,3 @@
         1. gradle.properties의 org.gradle.jvmargs에 --add-opens, --add-exports 옵션 추가
     - 결과: JDK 버전 호환성 문제 해결, 안정적인 빌드 환경 확보
 
-### Demo
-
-[https://drive.google.com/file/d/1NNMVC0Y0opql5kCuGr4rfVJsm1uY81aP/view?usp=drive_link](https://drive.google.com/file/d/1NNMVC0Y0opql5kCuGr4rfVJsm1uY81aP/view?usp=drive_link)
-
-[https://drive.google.com/file/d/1nsz0D2c6fvP9uSUX_HBtvQIMcl69QqzS/view?usp=drive_link](https://drive.google.com/file/d/1nsz0D2c6fvP9uSUX_HBtvQIMcl69QqzS/view?usp=drive_link)
